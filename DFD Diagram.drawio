@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T06:51:52.934Z" agent="5.0 (Windows)" etag="AV2qkRZ5pvAMTJFvTTTJ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T08:00:23.416Z" agent="5.0 (Windows)" etag="IQMmw1SPw95G0YLyz223" version="21.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="666" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="opSj3FVJMWo2EWqM532I-102" value="Petugas" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="opSj3FVJMWo2EWqM532I-102" value="Karyawan" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="770" y="900" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="opSj3FVJMWo2EWqM532I-103" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="opSj3FVJMWo2EWqM532I-91" target="opSj3FVJMWo2EWqM532I-109" edge="1">
